@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.7578127%" y1="100.25%" x2="50.7578127%" y2="-0.749999995%" id="linearGradient-1">
+            <stop stop-color="#50EDAA" offset="0%"></stop>
+            <stop stop-color="#53AEFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.7578127%" y1="-0.749999995%" x2="50.7578127%" y2="100.25%" id="linearGradient-2">
+            <stop stop-color="#50EDAA" offset="0%"></stop>
+            <stop stop-color="#53AEFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="snow-desktop-01" transform="translate(-695.000000, -3521.000000)">
+            <g id="construction" transform="translate(-117.000000, 3400.000000)">
+                <g id="feature-1">
+                    <g id="intro" transform="translate(382.000000, 121.000000)">
+                        <g id="icon" transform="translate(430.000000, 0.000000)">
+                            <path d="M20.8395131,49.3974881 C22.5493887,49.7916881 24.3303419,50 26.159949,50 C39.1868292,50 49.7472022,39.439627 49.7472022,26.4127468 C49.7472022,22.3839176 48.7371214,18.5910055 46.9563857,15.2734363 C44.6052733,14.4682616 42.0788616,14.0306506 39.4484351,14.0306506 C38.8834404,14.0306506 38.3232444,14.0508401 37.7685537,14.0905248 C37.890661,15.0629011 37.9535756,16.0536937 37.9535756,17.0591809 C37.9535756,29.1902046 28.7957299,39.1822989 17.0162649,40.4992372 C17.6249312,43.7682722 18.9554479,46.7894828 20.8395131,49.3974881 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                            <path d="M46.0681059,11.4095327 C41.6002331,4.54145592 33.8568115,0 25.0526759,0 C11.2164651,0 0,11.2164651 0,25.0526759 C0,35.9090563 6.90544657,45.1525833 16.563584,48.630501 C14.0099349,44.7049958 12.526338,40.0194331 12.526338,34.9873578 C12.526338,21.1511469 23.742803,9.93468184 37.5790139,9.93468184 C40.5588444,9.93468184 43.417166,10.4549231 46.0681059,11.4095327 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
